@@ -2,8 +2,7 @@
 
 Классическая
 
-![Иллюстрация к проекту](https://www.google.com/url?sa=i&url=https%3A%2F%2Fru.freepik.com%2Fphotos%2F%25D1%2588%25D0%25B0%25D1%2583%25D1%2580%25D0%25BC%25D0%25B0&psig=AOvVaw0dJvZv4ZHuVnZoVRfcjtQl&ust=1710700240790000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIjfrJO1-YQDFQAAAAAdAAAAABAE)
-
+![Иллюстрация к проекту](https://img.freepik.com/free-photo/side-view-shawarma-with-fried-potatoes-in-board-cookware_176474-3215.jpg?w=740&t=st=1710624974~exp=1710625574~hmac=a4aa97a0aa4e952fd96f31fe6bb3a3bfd8f266e5e994cc363ea9bf3c810d9fba)
 a
 da
 sda
